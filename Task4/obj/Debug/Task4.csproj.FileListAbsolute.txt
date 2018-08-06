@@ -1,0 +1,10 @@
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\bin\Debug\Task4.exe.config
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\Task4.DialogStrings.resources
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\Task4.DialogStrings.ru-Ru.resources
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\bin\Debug\Task4.exe
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\bin\Debug\Task4.pdb
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\bin\Debug\ru-Ru\Task4.resources.dll
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\ru-Ru\Task4.resources.dll
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\Task4.exe
+c:\users\islam_rakymbay\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\Task4.pdb
